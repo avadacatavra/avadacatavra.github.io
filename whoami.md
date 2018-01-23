@@ -5,9 +5,8 @@ permalink: whoami
 
 # About me
 
-![me](/images/avada.jpg){:class="img-responsive"}
-
-![soldering](/images/soldering.JPG){:class="img-responsive"}
+<img src="./assets/avada.jpg" alt="did i mention i like harry potter?" style="width: 200px;"/>
+<img src="./assets/soldering.JPG" alt="building an enigma-e" style="width: 200px;"/>
 
 ## Hobbies and interests
 Hanging out with my cats, yoga, food (creation and consumption), travel
@@ -15,15 +14,15 @@ Hanging out with my cats, yoga, food (creation and consumption), travel
 Harry Potter, cats, Disney princess movies, petting cute dogs/cats I see irl
 
 # About my cats
-![Batman & Watson](/images/both.jpg){:class="img-responsive"}
+<img src="./assets/both.jpg" alt="cat love" style="width: 200px;"/>
 
 ## Batman
-![working kitty](/images/batman.jpg){:class="img-responsive"}
-![Batman's butt](/images/batman2.jpg){:class="img-responsive"}
+<img src="./assets/batman.jpg" alt="cat at work" style="width: 200px;"/>
+<img src="./assets/batman2.jpg" alt="cat butt" style="width: 200px;"/>
 
 ## Watson
-![grumpy kitty](/images/watson.jpeg){:class="img-responsive"}
-![tall kitty](/images/watson2.jpg){:class="img-responsive"}
+<img src="./assets/watson2.jpg" alt="tall cat" style="width: 200px;"/>
+<img src="./assets/watson.jpeg" alt="grumpy cat" style="width: 200px;"/>
 
 # Where you might find me
 
