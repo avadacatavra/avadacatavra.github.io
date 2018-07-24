@@ -4,7 +4,7 @@ title: RWC- Zero Knowledge is actually a good thing!
 date: 2018-01-19 2:00:00
 categories: rwc crypto zcash zero-knowledge mpc
 short_description: when the know-nothings have the right idea
-image_preview: https://z.cash/theme/images/yellow-zcash-logo.png
+image_preview: assets/zcash.png
 ---
 
 Last week I went to [Real World Crypto](https://rwc.iacr.org/) (RWC aka my personal favorite IACR conference) and the High Assurance Crypto Symposium (HACS).
