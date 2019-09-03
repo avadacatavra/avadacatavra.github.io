@@ -1,38 +1,28 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+<html>
 
-{%- include head.html -%}
+  {% include head.html %}
 
-<body>
 
-  {%- include header.html -%}
+    {% include github-ribbon.html %}
 
-  <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+    <div class="container">
+      <div class="grid">
+        <aside class="cell -3of12" role="navigation">
+		<!--{% include navigation.html %}-->
+        </aside>
 
-      {%- include about.html -%}
+        <main class="cell -9of12">
+          {{ content }}
+        </main>
+      </div>
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
-      {%- if site.data.experience.size > 0 -%}
-        {%- include experience.html -%}
-      {%- endif -%}
-
-      {%- if site.data.education.size > 0 -%}
-        {%- include education.html -%}
-      {%- endif -%}
-
-      {%- if site.more_content -%}
-        {%- include more.html -%}
-      {%- endif -%}
+    {% include footer.html %}
 
     </div>
-  </main>
 
-  {%- include footer.html -%}
-
-</body>
+    <!-- Prism.js -->
+    <script src="https://npmcdn.com/prismjs@1.5.1/prism.js"></script>
+  </body>
 
 </html>

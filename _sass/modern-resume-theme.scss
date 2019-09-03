@@ -211,3 +211,19 @@ p.quote {
     margin-top: 1em;
   }
 }
+
+.custom { // avoid collisions with prefix
+  &-media { margin-bottom: 1.25rem; }
+  
+  &-media-shift { max-width: 50px; }
+
+  &-media-image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+}
+
+
+
