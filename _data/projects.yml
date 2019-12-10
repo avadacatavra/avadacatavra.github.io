@@ -1,9 +1,8 @@
 # Project template
 - layout: top-middle
   name: Mozilla Mixed Reality
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  link: https://mixedreality.mozilla.org/
   quote: >
-    Short overview of the project (optional)
+    Creating a safe, private, and secure immersive web
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    I’m research engineer focused on security and privacy in Mixed Reality–I lead privacy and safety efforts for a Social VR product, [Hubs](https://hubs.mozilla.com/), as well as [Firefox Reality](https://mixedreality.mozilla.org/firefox-reality/). I work across the mixed reality teams to ensure that our products are respectful and empowering for users. In my research, I investigate emerging privacy threats and determine both technical and non-technical solutions and mitigations.

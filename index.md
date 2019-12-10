@@ -17,7 +17,9 @@ layout: default
 
 I’m a privacy and security researcher in Pittsburgh, PA. Currently, I’m focused on Mixed (Augmented and Virtual) Reality. I also dabble in [Rust](rustlang.org) and [Servo](servo.org).
 
-In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.
+In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.  [We](https://ricky.hosfelt.io) have two cats, [Batman](./assets/batman.jpg) and [Watson](./assets/watson.jpeg), who are the cutest cats in the world.
+
+---
 
 
 ## Blogs and writing
@@ -34,11 +36,11 @@ Kent Bye, [Voices of VR](https://www.stitcher.com/podcast/kent-bye/voices-of-vr/
 
 ## Speaking
 
-https://www.usenix.org/conference/pepr19/presentation/hosfelt
+[USINIX PEPR](https://www.usenix.org/conference/pepr19/presentation/hosfelt)
 
 [Siggraph](https://s2019.siggraph.org/presentation/?id=gensub_382&sess=sess209)
 
-RustLab
+[RustLab](https://www.rustlab.it/)
 
 [Linux Conf Australia](https://archive.org/details/lca2019-MR_Security_Learning_from_IoTs_Mistakes)
 
