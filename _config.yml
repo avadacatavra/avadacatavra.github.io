@@ -1,66 +1,73 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site
+repository: avadacatavra/avadacatavra.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-# Site settings
-title: Cats and security and stuff 
-description: > # this means to ignore newlines until "baseurl:"
-  Musings on cats, Servo, security, etc.
-baseurl: ""  # the subpath of your site, e.g. /blog
-url: ""  # the base hostname & protocol for your site
-permalink: /:title/
+# Personal info
+name: Diane (Duros) Hosfelt
+title: Senior Research Engineer
+email: dianehosfelt@gmail.com
+phone: 412.587.1411
+website: https://diane.hosfelt.io
+
+# Social links
+twitter_username: avadacatavra 
+github_username:  avadacatavra
+linkedin_username: dianehosfelt
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: assets/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm a privacy and security researcher in Pittsburgh, PA. Currently, I'm focused on Mixed (Augmented and Virtual) Reality, but I'm also interested in Rust and formal verification
+
+  In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas. [We](https://ricky.hosfelt.io) have two cats, [Batman](./assets/batman.jpg) and [Watson](./assets/watson.jpeg), who are the cutest cats in the world.
+
+
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: Interests and Skills 
+more_content: | # this will include new lines to allow paragraphs
+   [Intersectional security](./_posts/intersectional), applied cryptography, privacy, tech policy and ethics,
+
+   Preferred Languages: Rust, C++/C, Python
+
+   Experienced speaker and writer on applied security in emerging domains
+
+
+
+
+# Footer
+footer_show_references: true
 
 # Build settings
-markdown: kramdown
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
-# Sass settings
 sass:
+  sass_dir: _sass
   style: compressed
 
-# Theme settings
-theme_mode: dark  # choices are: 'dark', 'standard', 'markdown'
+plugins:
+ - jekyll-seo-tag
 
-# Customizations
-your_name: Diane Hosfelt
-email: avadacatavra@gmail.com
-
-navigation:
-  - text: Home
-    url: /
-  - text: CV
-    url: /cv
-  - text: Projects
-    url: /projects
-  - text: whoami
-    url: /whoami
-
-
-projects:
-  - name: servo
-    description: rust-based browser engine
-    link: https://github.com/servo/servo
-    image: https://raw.githubusercontent.com/servo/servo/master/tests/html/doge-servo.jpg
-  - name: unsafe-unicorn
-    description: a way to analyze Rust code for unsafe usage
-    link: https://github.com/avadacatavra/unsafe_unicorn
-    image: https://www.spreadshirt.ie/image-server/v1/mp/designs/137307882,width=178,height=178/a-rabid-unicorn.png
-  - name: automated detection and classification of encryption algorithms in binary programs using machine learning
-    description: masters thesis, johns hopkins, wordy title required
-    link: https://arxiv.org/abs/1503.01186
-    image: https://i.imgur.com/VC8fr9D.png
-
-social:
-  - service: github
-    username: avadacatavra
-    link: https://github.com/avadacatavra
-  - service: twitter
-    username: avadacatavra
-    link: https://twitter.com/avadacatavra
-
-# Plugins
-gems:
-  - jekyll-seo-tag
-
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

@@ -1,0 +1,21 @@
+# Education Template
+- layout: left
+  name: Johns Hopkins University
+  dates: 2009-2015
+  qualification: # 
+        MSE Computer Science<br/>
+
+        BS Applied Math and Statistics<br/>
+
+        BS Computer Science  
+  degrees:
+        - dates: 2014-2015
+          qualification: MSE Computer Science
+        - dates: 2009-2014
+          qualification: BS Applied Math, BS Computer Science
+          
+  description: | # this will include new lines to allow paragraphs
+    Thesis advised by Drs. Matt Green and Steve Checkoway, [Automated detection and classification of cryptographic algorithms](https://arxiv.org/abs/1503.01186).
+
+    Course assistant for Intro to Algorithms and Intro to Java
+

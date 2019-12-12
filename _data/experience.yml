@@ -1,0 +1,32 @@
+# Experience template
+- layout: left
+  company: Mozilla 
+  jobs:
+    - title: Senior Research Engineer, Mixed Reality
+      dates: 2018-present
+    - title: Senior Research Engineer, Servo
+      dates: 2016-2018
+  quote: >
+   Privacy and security lead for Mixed Reality projects, including the Servo browser and Hubs social VR platform
+  description: | # this will include new lines to allow paragraphs
+    Engaged with academia and other industry partners to identify and mitigate privacy threats in the MR space and drove the privacy issues for the Immersive Web W3C working group
+
+    Managed the TLS stack and networking components for the Rust-based browser engine, Servo
+    
+    Examined security impact of rewriting a browser component in Rust and led the unsafe code guidelines working group
+    
+- layout: left
+  company: US Dept of Defense 
+  jobs:
+    - title: Software Engineer
+      dates: 2015-2016
+    - title: Software Engineering Intern
+      dates: 2012-2015
+
+  description: | # 
+          Responsible for performing in-depth signal and protocol analysis and writing customized processing in Python and C++. 
+          
+          Projects include designing a large scale cosine similarity cloud analytic on specialized dataset and using machine learning to help classify large scale data. Experience in computer vision, machine learning, data science, cryptography, and software engineering.
+    
+  
+
