@@ -2,13 +2,19 @@
 - layout: left
   company: Mozilla 
   jobs:
+    - title: Staff Research Engineer, Mixed Reality
+      dates: 2020-present
     - title: Senior Research Engineer, Mixed Reality
-      dates: 2018-present
+      dates: 2018-2020
     - title: Senior Research Engineer, Servo
       dates: 2016-2018
   quote: >
    Privacy and security lead for Mixed Reality projects, including the Servo browser and Hubs social VR platform
   description: | # this will include new lines to allow paragraphs
+    Prototyped trusted immersive UI for the immersive web to protect users from phishing and spoofing threats
+    
+    Identified privacy-preserving solutions that enabled product objectives
+    
     Engaged with academia and other industry partners to identify and mitigate privacy threats in the MR space and drove the privacy issues for the Immersive Web W3C working group
 
     Managed the TLS stack and networking components for the Rust-based browser engine, Servo
