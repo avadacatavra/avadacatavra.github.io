@@ -35,6 +35,7 @@ In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.  
 ## Interviews
 
 Kent Bye, [Voices of VR](https://www.stitcher.com/podcast/kent-bye/voices-of-vr/e/57346818)
+
 UploadVR, [Is Privacy Possible In VR's Future](https://www.youtube.com/watch?reload=9&v=4tJB3OS9RjQ)
 
 ## Speaking
