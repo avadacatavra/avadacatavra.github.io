@@ -30,9 +30,12 @@ In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.  
 
 [Principles of Mixed Reality Permissions](https://blog.mozvr.com/principles-of-mixed-reality-permissions/)
 
+[VentureBeat- Mixed reality developers need to talk safety now](https://venturebeat.com/2019/09/23/mixed-reality-developers-need-to-talk-safety-now-before-apologizing-later/)
+
 ## Interviews
 
 Kent Bye, [Voices of VR](https://www.stitcher.com/podcast/kent-bye/voices-of-vr/e/57346818)
+UploadVR, [Is Privacy Possible In VR's Future](https://www.youtube.com/watch?reload=9&v=4tJB3OS9RjQ)
 
 ## Speaking
 
