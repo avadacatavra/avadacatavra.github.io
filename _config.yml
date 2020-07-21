@@ -43,6 +43,15 @@ more_content: | # this will include new lines to allow paragraphs
    Experienced speaker and writer on applied security in emerging domains
 
 
+navigation:
+  - text: Home
+    url: /
+  - text: CV
+    url: /cv
+  - text: Blog
+    url: /blog
+  - text: Publications
+    url: /publications
 
 
 # Footer
@@ -72,12 +81,3 @@ exclude : [
   "docker-compose.yml",
   ]
   
-navigation:
-  - text: Home
-    url: /
-  - text: CV
-    url: /cv
-  - text: Blog
-    url: /blog
-  - text: Publications
-    url: /publications
