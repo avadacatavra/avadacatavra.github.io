@@ -6,7 +6,7 @@ repository: avadacatavra/avadacatavra.github.io
 name: Diane (Duros) Hosfelt
 title: Staff Research Engineer
 email: dianehosfelt@gmail.com
-website: https://diane.hosfelt.io
+website: https://diane.hosfelt.dev
 
 # Social links
 twitter_username: avadacatavra 
@@ -19,7 +19,7 @@ about_profile_image: assets/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a privacy and security researcher in Pittsburgh, PA. Currently, I'm focused on Mixed (Augmented and Virtual) Reality, but I'm also interested in Rust and formal verification
 
-  In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas. [We](https://ricky.hosfelt.io) have two cats, [Batman](./assets/batman.jpg) and [Watson](./assets/watson.jpeg), who are the cutest cats in the world.
+  In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas. [We](https://ricky.hosfelt.dev) have two cats, [Batman](./assets/batman.jpg) and [Watson](./assets/watson.jpeg), who are the cutest cats in the world.
 
 
 
