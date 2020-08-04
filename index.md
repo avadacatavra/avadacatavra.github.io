@@ -15,7 +15,7 @@ layout: default
 
 ## About me
 
-I’m a privacy and security researcher in Pittsburgh, PA. Currently, I’m focused on Mixed (Augmented and Virtual) Reality. I also dabble in [Rust](rustlang.org) and [Servo](servo.org).
+I’m a privacy and security researcher in Pittsburgh, PA. Currently, I’m focused on Mixed (Augmented and Virtual) Reality. I also dabble in [Rust](https://rustlang.org) and [Servo](https://servo.org).
 
 In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.  [We](https://ricky.hosfelt.io) have two cats, [Batman](./assets/batman.jpg) and [Watson](./assets/watson.jpeg), who are the cutest cats in the world.
 
@@ -31,12 +31,14 @@ In my free time, I enjoy bouldering, yoga, traveling, and using Oxford commas.  
 [Principles of Mixed Reality Permissions](https://blog.mozvr.com/principles-of-mixed-reality-permissions/)
 
 [VentureBeat- Mixed reality developers need to talk safety now](https://venturebeat.com/2019/09/23/mixed-reality-developers-need-to-talk-safety-now-before-apologizing-later/)
+---
 
 ## Interviews
 
 Kent Bye, [Voices of VR](https://www.stitcher.com/podcast/kent-bye/voices-of-vr/e/57346818)
 
 UploadVR, [Is Privacy Possible In VR's Future](https://www.youtube.com/watch?reload=9&v=4tJB3OS9RjQ)
+---
 
 ## Speaking
 
